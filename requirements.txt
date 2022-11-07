@@ -1,0 +1,7 @@
+#torch==1.13.0
+torch
+numpy
+transformers==3.0.0
+nltk
+nlp==0.2.0
+#nvidia-cuda-runtime-cu11==11.7.99
